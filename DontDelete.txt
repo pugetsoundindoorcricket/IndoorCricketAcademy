@@ -1,0 +1,9 @@
+Email 
+	password: Sarfarosh
+	username: belredcc@gmail.com
+AWS
+	password: Sarfarosh
+	username: belredcc@gmail.com
+PayPal	
+	password: Sarfarosh1
+	username: belredcc@gmail.com
